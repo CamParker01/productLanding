@@ -1,0 +1,37 @@
+img{
+    height: auto;
+  width: 30vw;
+}
+
+#header-img{
+ 
+
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 20vw;
+  height: auto;
+}
+
+ iframe {
+  width: auto;
+  height: 600px;
+  margin: 0 auto;
+  background-color: #777;
+}
+iframe {
+  display: block;
+  border-style:none;
+}
+
+@media (max-width:500px){}
+
+ol{
+  list-style-type: none;
+}
+
