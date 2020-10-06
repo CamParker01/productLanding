@@ -19,19 +19,45 @@ img{
 }
 
  iframe {
-  width: auto;
-  height: 600px;
+  width: 500;
+  height: 300px;
   margin: 0 auto;
-  background-color: #777;
-}
-iframe {
-  display: block;
+  background-color: #777; 
+   display: block;
   border-style:none;
 }
+
 
 @media (max-width:500px){}
 
 ol{
   list-style-type: none;
+  text-align: center;
+ 
+  
 }
 
+#shoe1{
+display: inline-block;
+text-align: center;
+
+}
+
+#shoe2{
+display: inline-block;
+text-align: center;
+}
+#shoe3{
+display: inline-block;
+text-align: center;
+}
+
+
+
+form{
+  text-align: center;
+}
+
+span a{
+  border: 3px solid black;
+}
